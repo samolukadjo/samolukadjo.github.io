@@ -10,7 +10,6 @@ body {
 
 .container {
   width: 100%;
-  max-width: 500px;
   margin: 0 auto;
   padding: 20px;
 }
@@ -49,11 +48,5 @@ button {
   padding: 10px;
   border: none;
   cursor: pointer;
-}
-
-@media (max-width: 3000px) {
-  .container {
-    width: 100%;
-  }
 }
 
