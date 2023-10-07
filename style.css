@@ -19,7 +19,8 @@ body {
 }
 
 .diploma {
-  width: 0.3vh;
+  /* width: 0.3vh; */
+  height: 0.25vh;
 }
 
 h1 {
